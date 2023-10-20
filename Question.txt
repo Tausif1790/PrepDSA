@@ -1,0 +1,4 @@
+1. Given a string calculate length of longest palindromic
+	file:///C:/Users/TAUSSHAI/OneDrive%20-%20Capgemini/Desktop/Scalar/Module%203/Strings.pdf
+
+2. 

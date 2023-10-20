@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2D_Matrices", "2D_Matrices", "{DBF1F99B-05DD-4BA0-B1A5-D472DDA1F2E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scalar", "Scalar", "{541EE6DC-F872-43E6-85A1-E8E07A4EED52}"
+	ProjectSection(SolutionItems) = preProject
+		Anti Diagonal.cs = Anti Diagonal.cs
+		Column Sum.cs = Column Sum.cs
+		Main Diagonal Sum.cs = Main Diagonal Sum.cs
+		Matrix Transpose.cs = Matrix Transpose.cs
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rotate Matrix", "Rotate Matrix\Rotate Matrix.csproj", "{BF2CA662-7215-4C79-933F-563769735DAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem Solving", "Problem Solving", "{F1A68AB2-7AA7-42CC-8E55-60423F6823FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#", "C#", "{1DE8CDE4-5BDD-4859-8E1D-2744B12A18C3}"
+	ProjectSection(SolutionItems) = preProject
+		HashMap_Hashset.cs = HashMap_Hashset.cs
+		Array_ArrayList.cs = Array_ArrayList.cs
+		Question.txt = Question.txt
+		Strings.cs = Strings.cs
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List", "List\List.csproj", "{3A1660AB-956D-478F-81AE-F95E9A91A719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "List", "List", "{15EBC4D3-E71C-4EBB-A9EB-48BA561B8AF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scalar", "Scalar", "{414FFA81-649C-4F05-9B3D-ACF01765FD20}"
+	ProjectSection(SolutionItems) = preProject
+		(Special Index).cs = (Special Index).cs
+		Range Sum Query.cs = Range Sum Query.cs
+		Second Largest in array.cs = Second Largest in array.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scalar", "Scalar", "{331FDBAB-4250-4B1C-A15B-30BC2A549835}"
+	ProjectSection(SolutionItems) = preProject
+		Count of elements.cs = Count of elements.cs
+		CountPrime.cs = CountPrime.cs
+		Time to equality.cs = Time to equality.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imp Question", "Imp Question", "{FD2BFF9F-71DF-4EB5-AE8C-095D814BB0F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hashmap", "Hashmap", "{86A51D3C-23CA-4E14-A08D-15ADE66FC37F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Distionary_HashMap", "Distionary_HashMap", "{CA86340B-35A9-492F-96C1-8332D17C30FA}"
+	ProjectSection(SolutionItems) = preProject
+		Q2. Sub-array with 0 sum.cs = Q2. Sub-array with 0 sum.cs
+		Q1. Frequency of element query.cs = Q1. Frequency of element query.cs
+		Q3. Count distinct elements.cs = Q3. Count distinct elements.cs
+		Q4. First Repeating element.cs = Q4. First Repeating element.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bit Manipulations Basics", "Bit Manipulations Basics", "{A3F3F146-2A66-4D84-AC68-2EE1AED9163E}"
+	ProjectSection(SolutionItems) = preProject
+		Q7. Add Binary Strings.cs = Q7. Add Binary Strings.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{AED5511F-2F35-4054-8941-BBE4A49FDFE8}"
+	ProjectSection(SolutionItems) = preProject
+		Q1. Toggle Case.cs = Q1. Toggle Case.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2CA662-7215-4C79-933F-563769735DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2CA662-7215-4C79-933F-563769735DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2CA662-7215-4C79-933F-563769735DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2CA662-7215-4C79-933F-563769735DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1660AB-956D-478F-81AE-F95E9A91A719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1660AB-956D-478F-81AE-F95E9A91A719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1660AB-956D-478F-81AE-F95E9A91A719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1660AB-956D-478F-81AE-F95E9A91A719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{541EE6DC-F872-43E6-85A1-E8E07A4EED52} = {DBF1F99B-05DD-4BA0-B1A5-D472DDA1F2E7}
+		{BF2CA662-7215-4C79-933F-563769735DAF} = {541EE6DC-F872-43E6-85A1-E8E07A4EED52}
+		{3A1660AB-956D-478F-81AE-F95E9A91A719} = {1DE8CDE4-5BDD-4859-8E1D-2744B12A18C3}
+		{414FFA81-649C-4F05-9B3D-ACF01765FD20} = {15EBC4D3-E71C-4EBB-A9EB-48BA561B8AF4}
+		{331FDBAB-4250-4B1C-A15B-30BC2A549835} = {F1A68AB2-7AA7-42CC-8E55-60423F6823FE}
+		{FD2BFF9F-71DF-4EB5-AE8C-095D814BB0F2} = {1DE8CDE4-5BDD-4859-8E1D-2744B12A18C3}
+		{86A51D3C-23CA-4E14-A08D-15ADE66FC37F} = {FD2BFF9F-71DF-4EB5-AE8C-095D814BB0F2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D75E68-A4C9-4840-958A-F2D31A8E5863}
+	EndGlobalSection
+EndGlobal
